@@ -1,4 +1,4 @@
-# Seeing like a developer
+# Seeing like a developer.
 
 > The purpose of this readme is to explain the objectives and activities of the Developer Specs workshop.
 
